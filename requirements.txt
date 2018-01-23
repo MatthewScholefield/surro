@@ -1,0 +1,3 @@
+hg+https://bitbucket.org/MatthewScholefield/py-al@fix_loaders#egg=PyAL
+numpy==1.14.0
+pygame==1.9.3
